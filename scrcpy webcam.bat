@@ -1,0 +1,1 @@
+scrcpy.exe -b10M --orientation=270 --video-source=camera --camera-facing=front --camera-size=1920x1080 --no-audio 

@@ -1,0 +1,1 @@
+scrcpy.exe -Sw -b20M --max-size 1080 --max-fps 60 --video-codec=h265 --display-buffer=200 --audio-buffer=200
